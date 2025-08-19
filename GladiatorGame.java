@@ -1,6 +1,6 @@
 package gladiator_java;
 import java.util.Scanner;
-public class Gladiator_Coronel {
+public class GladiatorGame {
 
     public static void main(String[] args) {
         Scanner in = new Scanner (System.in);
@@ -51,4 +51,5 @@ public class Gladiator_Coronel {
           
     }
     
+
 }
