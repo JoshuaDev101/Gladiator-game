@@ -1,5 +1,5 @@
 **Gladiator1 Game**
-****This is a simple turn-based gladiator fighting game written in Java. The game allows you to create a player gladiator and automatically generate a computer-controlled enemy gladiator. Both gladiators fight until one wins.
+##This is a simple turn-based gladiator fighting game written in Java. The game allows you to create a player gladiator and automatically generate a computer-controlled enemy gladiator. Both gladiators fight until one wins.
 Features
 - Gladiator Class (Gladiator1)
   * Attributes: name, health, damage, defense, initiative
@@ -54,4 +54,5 @@ This project is a good introduction to Object-Oriented Programming (OOP) in Java
 - Encapsulation (private fields + getters/setters)
 - Static methods
 - Loops and conditionals
+
 
